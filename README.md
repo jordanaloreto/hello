@@ -61,6 +61,7 @@ Baseado em recomendações da Fortinet:
 🚫 Não compartilhe informações desnecessárias
 
 🌐 Uilize navegadores com foco na privacidade como o Brave
+
 ⚠️ Aviso
 
 Este projeto é educacional.
